@@ -5,3 +5,4 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
+- [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
