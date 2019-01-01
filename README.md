@@ -7,3 +7,4 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
+- [animtrap](https://github.com/sanjayaharshana/AnimTrap) - AnimTrap is a CSS Framework for web animation.
