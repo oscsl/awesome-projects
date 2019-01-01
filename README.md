@@ -6,6 +6,6 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
+- [nb-twitterbot](https://github.com/namila007/nb-twitter-bot) - A personal twitter bot
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
-- [nb-twitterbot](https://github.com/namila007/nb-twitter-bot) - A personal twitter bot
