@@ -13,4 +13,4 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 
 ### License
 
-[CC0-1.0](LICENSE.md)
+[CC0-1.0](LICENSE)
