@@ -1,4 +1,5 @@
-# awesome-projects
+# Awesome Github Projects - SL
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of open source projects which were initiated in Sri Lanka. Submit your own projects via a pull request (Please sort the list alphabetically)
 
