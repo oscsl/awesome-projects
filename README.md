@@ -12,6 +12,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
 - [sensordatacollector](https://github.com/CodeLanka/SensorDataCollector) - A multi purpose mobile sensor data collection app
+- [CrossTheGameQT](https://github.com/SenuraMalaka/CrossTheGameQT) - A multiplayer game written in Qt framework with C++
 
 
 ### License
