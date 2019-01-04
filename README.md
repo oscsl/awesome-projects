@@ -4,6 +4,7 @@
 A collection of open source projects which were initiated in Sri Lanka. Submit your own projects via a pull request (Please sort the list alphabetically)
 
 - [animtrap](https://github.com/sanjayaharshana/AnimTrap) - AnimTrap is a CSS Framework for web animation.
+- [CrossTheGameQT](https://github.com/SenuraMalaka/CrossTheGameQT) - A multiplayer game written in Qt framework with C++
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
 - [gh-code](https://github.com/99xt/gh-code) - Visual Studio Code Plugin to handle github issues easily
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
