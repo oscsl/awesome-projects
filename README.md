@@ -5,6 +5,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 
 - [animtrap](https://github.com/sanjayaharshana/AnimTrap) - AnimTrap is a CSS Framework for web animation.
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
+- [gh-code](https://github.com/99xt/gh-code) - Visual Studio Code Plugin to handle github issues easily
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
 - [nb-twitterbot](https://github.com/namila007/nb-twitter-bot) - A personal twitter bot
