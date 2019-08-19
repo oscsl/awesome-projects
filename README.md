@@ -11,6 +11,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
 - [nb-twitterbot](https://github.com/namila007/nb-twitter-bot) - A personal twitter bot
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
+- [reactjs-videobg](https://github.com/samAbeywickrama/reactjs-videobg) - Easily add background videos to react web apps
 - [runn](https://github.com/shalithasuranga/runn) - Make your own terminal aliases easily! 
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
 - [sensordatacollector](https://github.com/CodeLanka/SensorDataCollector) - A multi purpose mobile sensor data collection app
