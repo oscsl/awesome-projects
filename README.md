@@ -6,6 +6,8 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [animtrap](https://github.com/sanjayaharshana/AnimTrap) - AnimTrap is a CSS Framework for web animation.
 - [CrossTheGameQT](https://github.com/SenuraMalaka/CrossTheGameQT) - A multiplayer game written in Qt framework with C++
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
+- [doenets-api](https://github.com/ishan-marikar/doenets-api) - A small library that works as a wrapper to the API that is used behind the DOENETS app
+- [github-public-keys](https://github.com/ishan-marikar/github-public-keys) - A simple node.js module to retrieve the public keys of anybody on Github.
 - [gh-code](https://github.com/99xt/gh-code) - Visual Studio Code Plugin to handle github issues easily
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
@@ -16,8 +18,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [runn](https://github.com/shalithasuranga/runn) - Make your own terminal aliases easily! 
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
 - [sensordatacollector](https://github.com/CodeLanka/SensorDataCollector) - A multi purpose mobile sensor data collection app
-
-
+- [topjobs-scraper](https://github.com/ishan-marikar/topjobslk-scraper) - A tiny module to scrape job listings off topjobs.lk.
 ### License
 
 [CC0-1.0](LICENSE)
