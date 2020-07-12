@@ -22,11 +22,10 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [reactjs-videobg](https://github.com/samAbeywickrama/reactjs-videobg) - Easily add background videos to react web apps
 - [runn](https://github.com/shalithasuranga/runn) - Make your own terminal aliases easily!
 - [sensordatacollector](https://github.com/CodeLanka/SensorDataCollector) - A multi purpose mobile sensor data collection app
-- [topjobs-scraper](https://github.com/ishan-marikar/topjobslk-scraper) - A tiny module to scrape job listings off topjobs.lk.
 - [si-hardsub-gui](https://github.com/ipmanlk/si-hardsub-gui) - Simple GUI to hardsub unicode subtitles on Linux
 - [sinhala-sub-maker](https://github.com/ipmanlk/sinhala-sub-maker) -  Simple Library to translate English Srt Subtitles to Sinhala.
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
-
+- [topjobs-scraper](https://github.com/ishan-marikar/topjobslk-scraper) - A tiny module to scrape job listings off topjobs.lk.
 
 ### License
 
