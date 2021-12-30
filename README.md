@@ -27,6 +27,8 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [sinhala-sub-maker](https://github.com/ipmanlk/sinhala-sub-maker) -  Simple Library to translate English Srt Subtitles to Sinhala.
 - [timercpp](https://github.com/shalithasuranga/timercpp) - Javascript like setTimeout and setInterval for c++ developers
 - [topjobs-scraper](https://github.com/ishan-marikar/topjobslk-scraper) - A tiny module to scrape job listings off topjobs.lk.
+- [XCalc](https://github.com/sahithyandev/xcalc) - A calculator (web/android) app which includes additional functions like is-prime and factorize.
+- [YouTubeDownloader Bot](https://github.com/sahithyandev/youtube-downloader-bot) - A viber bot to download YouTube videos easily.
 
 ### License
 
