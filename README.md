@@ -13,6 +13,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [github-public-keys](https://github.com/ishan-marikar/github-public-keys) - A simple node.js module to retrieve the public keys of anybody on Github.
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
 - [kache](https://github.com/kasvith/kache) - an redis compatible in memory database written in go
+- [live-sl](https://github.com/kana800/livesl) - A small static webpage that shows ongoing indie events from a curated list of bands.
 - [nb-twitterbot](https://github.com/namila007/nb-twitter-bot) - A personal twitter bot
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross platform application development framework
 - [open-unicode-converter](https://github.com/s1n7ax/open-unicode-converter) - Easy way to type in Singlish.
