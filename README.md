@@ -29,6 +29,8 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [topjobs-scraper](https://github.com/ishan-marikar/topjobslk-scraper) - A tiny module to scrape job listings off topjobs.lk.
 - [XCalc](https://github.com/sahithyandev/xcalc) - A calculator (web/android) app which includes additional functions like is-prime and factorize.
 - [YouTubeDownloader Bot](https://github.com/sahithyandev/youtube-downloader-bot) - A viber bot to download YouTube videos easily.
+- [DataBank](https://databank.watchdog.team) - 🗳️ We are building a collaborative platform to create and collect key datasets.
+- [Elixir](https://elixir.redcross.lk) - Elixir is a project launched by @team-watchdog in response to the medicine and medical equipment shortage caused by the 2022 Economic Crisis in Sri Lanka (https://longform.watchdog.team/whats-happening-with-the-sri-lankan-economy).
 
 ### License
 
