@@ -9,6 +9,7 @@ A collection of open source projects which were initiated in Sri Lanka. Submit y
 - [doenets-api](https://github.com/ishan-marikar/doenets-api) - A small library that works as a wrapper to the API that is used behind the DOENETS app
 - [emojicpp](https://github.com/shalithasuranga/emojicpp) - Emoji :smile: for c++ developers :+1:
 - [emojideno](https://github.com/99xt/emojideno) - Emoji :smile: for Deno developers :+1:
+- [FeedBack-UI](https://github.com/namanzzz/JS-FeedBack-UI)  - A FeedBack User Interface using Javascript
 - [gh-code](https://github.com/99xt/gh-code) - Visual Studio Code Plugin to handle github issues easily
 - [github-public-keys](https://github.com/ishan-marikar/github-public-keys) - A simple node.js module to retrieve the public keys of anybody on Github.
 - [jerverless](https://github.com/jerverless/jerverless) - Turn anything into an on-premise serverless function
